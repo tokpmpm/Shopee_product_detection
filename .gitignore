@@ -7,7 +7,8 @@
 # 忽略所有 db 目錄下附檔名是 .sqlite3 的檔案
 /train/*
 /test/*
-
+/pic/*
+/train_pic/*
 # 忽略所有附檔名是 .tmp 的檔案
 *.zip
 
